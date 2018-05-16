@@ -1,0 +1,27 @@
+{
+    "usuarios":[
+        {
+            "nombre": "User1",
+            "email": "user1@gmail.com",
+            "pass": "123456",
+            "permisos": "administrador",
+            "active":false
+        },
+        {
+            "nombre": "User2",
+            "email": "user2@gmail.com",
+            "pass": "1234",
+            "permisos": "mantenedor",
+            "active":false
+        }
+    ]
+
+
+
+
+
+
+
+
+
+}
